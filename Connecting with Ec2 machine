@@ -1,0 +1,10 @@
+=>chmod 400 nginxtest.pem
+=>ssh -i nginxtest.pem ubuntu@public ip
+// command to check machine
+=>whoami
+=>sudo apt update -y
+=>sudo apt install nodejs -y
+=>sudo apt install npm -y
+# cloning the repository
+=>git clone github link
+# go to folder
